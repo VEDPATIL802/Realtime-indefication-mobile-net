@@ -1,0 +1,58 @@
+  .heading {
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px turquoise;
+    font-size: 20px;
+    font-family: monospace;
+  }
+
+  .heading_div {
+    float: none;
+    background-color: gold;
+    border-radius: 20px;
+    color: deeppink;
+    box-shadow: 5px 5px 5px chartreuse;
+    font-size: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+  }
+
+  .heading_div2 {
+    font-size: 18px;
+    color: hotpink;
+    background-color: indigo;
+    font-size: 20px;
+    font-family: initial;
+  }
+
+  .result_para_tag {
+    box-shadow: 5px 5px 5px darkorange;
+    font-size: 20px;
+    background-color: lawngreen;
+    color: magenta;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .result_para_tag span {
+    white-space: pre-line;
+  }
+
+  .copy_right_footer {
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    color: mediumorchid;
+    background-color: orange;
+    font-family: inherit;
+    font-size: 20px;
+  }
+
+  canvas {
+    border: 5px solid fuchsia;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px mediumpurple;
+    margin-top: 150px;
+  }
